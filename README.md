@@ -1,2 +1,2 @@
 # JAKIN
-JAKIN's web page project
+JAKIN coporation's web page project
